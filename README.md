@@ -43,7 +43,7 @@ On the input file, the blanks are represented by dots. 
 
 ## Example Output
 
-* When you compile the **GameOfLife.java	** file, then you will be asked which file to open. The files(**.dat**) are also provided for your convenience. You can simply type the file name such as life1.dat.
+* When you compile the **GameOfLife.java** file, then you will be asked which file to open. The files(**.dat**) are also provided for your convenience. You can simply type the file name such as life1.dat.
 
 * The sample result is also provided below. 
 
